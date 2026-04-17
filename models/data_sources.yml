@@ -6,3 +6,8 @@ sources:
     schema: TPCH_SF1
     tables:
       - name: CUSTOMER
+  - name: bike
+    database: DEMO_DB
+    schema: LANDING_ZONE
+    tables:
+      - name: BIKE_RIDES_DATA_EXTRACT
