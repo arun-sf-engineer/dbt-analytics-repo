@@ -43,3 +43,5 @@ models:
 vars: 
   db_nm: 'DEV_CUSTOMER_ANALYTICS'
   sch_nm: 'PUBLIC'
+  bike_db: 'DEMO_DB'
+  hst_sch: 'HISTORY_ZONE'
