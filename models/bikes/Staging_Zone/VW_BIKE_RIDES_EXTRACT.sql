@@ -6,4 +6,5 @@
     )
 }}
 
-select * from {{ref('BIKE_RIDES_DATA_EXTRACT_01')}}
+select *
+ from {{ref('BIKE_RIDES_DATA_EXTRACT_01')}}
