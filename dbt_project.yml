@@ -45,3 +45,4 @@ vars:
   sch_nm: 'PUBLIC'
   bike_db: 'DEMO_DB'
   hst_sch: 'HISTORY_ZONE'
+  stg_sch: 'stage_zone'
